@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0f1eda65987ffe8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Semester5/Betriebswirtschaftslere/Folien zur Vorlesung BWL 2026.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Folien zur Vorlesung BWL 2026"
-            }
-          },
-          {
             "id": "51566037d085fb35",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Semester5/Betriebswirtschaftslere/VL2 - Notizen.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "VL2 - Notizen"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           },
           {
@@ -133,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester5/Betriebswirtschaftslere/Folien zur Vorlesung BWL 2026.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester5/Betriebswirtschaftslere/Folien zur Vorlesung BWL 2026.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -205,11 +191,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e0f1eda65987ffe8",
+  "active": "51566037d085fb35",
   "lastOpenFiles": [
-    "Semester5/Betriebswirtschaftslere/VL2 - Zeichnungen.md",
     "Semester5/Betriebswirtschaftslere/VL2 - Notizen.md",
     "Semester5/Betriebswirtschaftslere/Folien zur Vorlesung BWL 2026.pdf",
+    "Semester5/Betriebswirtschaftslere/VL2 - Zeichnungen.md",
     "Semester5/Betriebswirtschaftslere/BWL - Master.md",
     "Semester5/A Semester 5 Master.md",
     "Semester5/Numerische Mathematik/VL1 Grundlagen 2026.pdf",
