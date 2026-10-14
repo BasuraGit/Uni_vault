@@ -6,7 +6,7 @@
 [[Semester5/Weitverkehrsnetze/VL1 - Zeichnungen|VL1 - Zeichnungen]]
 
 ## Übung
-
+[[Subnet an IPv4 Network.pdf]]
 
 ## Benotung
 klausurrelevant: Praktikum + Vorlesung

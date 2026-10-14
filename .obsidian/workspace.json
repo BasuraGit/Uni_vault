@@ -4,19 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4f5d1c5a391fb4f3",
+        "id": "a7efdc5ca7099684",
         "type": "tabs",
         "children": [
           {
-            "id": "56bd12b9a1e2fa41",
+            "id": "93b3a34a018350c0",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester5/Betriebswirtschaftslere/Folien zur Vorlesung BWL 2026.pdf"
+                "file": "Semester5/Maschinelles Lernen/ML_WS26_27_V01_Einfuehrung.pdf",
+                "page": 32,
+                "left": -23,
+                "top": 412,
+                "zoom": 0.6500000000000001
               },
               "icon": "lucide-file-text",
-              "title": "Folien zur Vorlesung BWL 2026"
+              "title": "ML_WS26_27_V01_Einfuehrung"
             }
           }
         ]
@@ -107,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester5/Betriebswirtschaftslere/Folien zur Vorlesung BWL 2026.pdf",
+                "file": "Semester5/Maschinelles Lernen/ML_WS26_27_V01_Einfuehrung.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester5/Betriebswirtschaftslere/Folien zur Vorlesung BWL 2026.pdf",
+                "file": "Semester5/Maschinelles Lernen/ML_WS26_27_V01_Einfuehrung.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,47 +180,53 @@
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": true,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "56bd12b9a1e2fa41",
+  "active": "93b3a34a018350c0",
   "lastOpenFiles": [
-    "Semester5/Betriebswirtschaftslere/VL2 - Zeichnungen.md",
+    "Semester5/Maschinelles Lernen/ML_WS26_27_V02_Das_Lernproblem.pdf",
+    "Semester5/Maschinelles Lernen/ML_WS26_27_V01_Einfuehrung.pdf",
+    "Semester5/Maschinelles Lernen/ML_U01_Setup_NumPy.pdf",
+    "Semester5/Maschinelles Lernen/Nicht bestätigt 311012.crdownload",
+    "Semester5/Maschinelles Lernen/Nicht bestätigt 405943.crdownload",
+    "Semester5/Betriebswirtschaftslere/VL1 - Zeichnungen.md",
+    "Semester5/Betriebswirtschaftslere/Übung 1.md",
+    "Semester5/Maschinelles Lernen/ML - Master.md",
+    "Semester5/Weitverkehrsnetze/WV - Master.md",
+    "Semester5/Weitverkehrsnetze/Übung_1/Subnet an IPv4 Network.pdf",
+    "Semester5/Weitverkehrsnetze/VL1 - PDF - 1. Routing.pdf",
     "Semester5/Betriebswirtschaftslere/Folien zur Vorlesung BWL 2026.pdf",
+    "Semester5/Weitverkehrsnetze/Übung 1 - Subnetting.md",
+    "Semester5/Weitverkehrsnetze/Übung_1/Subnet an IPv4 Network.pka~",
+    "Semester5/Weitverkehrsnetze/Übung_1/Subnet an IPv4 Network.pka",
+    "Semester5/Weitverkehrsnetze/Übung_1",
+    "Semester5/Betriebswirtschaftslere/Unbenannt.md",
+    "Semester5/Betriebswirtschaftslere/BWL - Master.md",
+    "Semester5/Semester 5 Master.md",
+    "Semester5/Astronomie/VL2.md",
+    "Semester5/Astronomie/VL1.md",
+    "Semester5/Astronomie/AST - Master.md",
+    "Semester5/Betriebswirtschaftslere/VL2 - Zeichnungen.md",
     "Pasted Image 20261012125519_193.png",
     "Pasted Image 20261012125444_125.png",
     "Semester5/Betriebswirtschaftslere/VL2 - Notizen.md",
-    "Semester5/Betriebswirtschaftslere/BWL - Master.md",
-    "Semester5/A Semester 5 Master.md",
-    "Semester5/Numerische Mathematik/VL1 Grundlagen 2026.pdf",
     "Semester5/Unbenannt.md",
     "Excalidraw/Drawing 2026-10-12 11.44.45.excalidraw.md",
-    "Excalidraw",
     "Semester5/Numerische Mathematik/VL2 - Zeichnungen.md",
     "Semester5/Numerische Mathematik/NM - Master.md",
-    "Semester5/Numerische Mathematik/Praktika.pdf",
-    "Semester5/Numerische Mathematik/TheorieUebung.pdf",
-    "Semester5/Betriebswirtschaftslere/VL1 - Zeichnungen.md",
-    "Semester5/Numerische Mathematik/VL2 Vektoranalysis 2026.pdf",
     "Semester5/Numerische Mathematik/VL2 - Notizen.md",
-    "Semester5/Numerische Mathematik/VL3 Software 2026.pdf",
-    "Semester5/Numerische Mathematik/OptimizationDemoCode/__pycache__/__init__.cpython-39.pyc",
-    "Semester5/Numerische Mathematik/OptimizationDemoCode/__pycache__/test_SQP.cpython-39-pytest-7.4.4.pyc",
-    "Semester5/Numerische Mathematik/OptimizationDemoCode/__pycache__/test_Set.cpython-39-pytest-7.4.4.pyc",
-    "Semester5/Astronomie/VL1.md",
     "Semester5/Weitverkehrsnetze/Router table.png",
     "Semester5/Weitverkehrsnetze/VL1 - Zeichnungen.md",
-    "Semester5/Weitverkehrsnetze/WV - Master.md",
     "Semester5/Maschinelles Lernen/VL1.md",
     "Semester5/Maschinennahe Vernetzung/MV - Master.md",
     "Semester5/Maschinennahe Vernetzung/VL1 - Zeichnungen.md",
-    "Semester5/Maschinelles Lernen/ML - Master.md",
     "Semester5/Maschinennahe Vernetzung/VL1 - Notizen.md",
-    "Semester5/Astronomie/AST - Master.md",
     "Excalidraw/Drawing 2026-10-05 12.57.27.excalidraw.md",
     "Excalidraw/Drawing 2026-10-05 12.56.36.excalidraw.md",
-    "Semester5/Betriebswirtschaftslere/Unbenannt.canvas",
-    "Unbenannt.md",
-    "Willkommen.md"
+    "Semester5/Betriebswirtschaftslere/Unbenannt.canvas"
   ]
 }
