@@ -4,23 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a7efdc5ca7099684",
+        "id": "5434f4f7e20f2da3",
         "type": "tabs",
         "children": [
           {
-            "id": "93b3a34a018350c0",
+            "id": "8f7fcd3e01450153",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Semester5/Maschinelles Lernen/ML_WS26_27_V01_Einfuehrung.pdf",
-                "page": 32,
-                "left": -23,
-                "top": 412,
-                "zoom": 0.6500000000000001
+                "file": "Semester5/Numerische Mathematik/VL3 Software 2026.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "ML_WS26_27_V01_Einfuehrung"
+              "title": "VL3 Software 2026"
             }
           }
         ]
@@ -111,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester5/Maschinelles Lernen/ML_WS26_27_V01_Einfuehrung.pdf",
+                "file": "Semester5/Maschinennahe Vernetzung/Übung 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester5/Maschinelles Lernen/ML_WS26_27_V01_Einfuehrung.pdf",
+                "file": "Semester5/Maschinennahe Vernetzung/Übung 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,6 +158,35 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "01d1503b245be431",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "c98732a26e810d44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semester5/Numerische Mathematik/VL3 Software 2026.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
           }
         ],
         "currentTab": 3
@@ -180,30 +205,35 @@
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": true,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "93b3a34a018350c0",
+  "active": "8f7fcd3e01450153",
   "lastOpenFiles": [
+    "Semester5/Maschinennahe Vernetzung/Übung 1.md",
+    "Semester5/Weitverkehrsnetze/Übung 1 - Subnetting.md",
+    "Semester5/Weitverkehrsnetze/VL2 - Zeichnungen.md",
+    "Semester5/Weitverkehrsnetze/VL1 - PDF - 1. Routing.pdf",
+    "Semester5/Weitverkehrsnetze/VL2 - Notizen.md",
+    "Semester5/Weitverkehrsnetze/VL2 - PDF - 2. Routing am Beispiel von OSPF.pdf",
+    "Semester5/Weitverkehrsnetze/VL1 - PDF - 1. Routing _ Ergaenzung Tabelle.pdf",
+    "Semester5/Weitverkehrsnetze/VL1 - Zeichnungen.md",
+    "Semester5/Weitverkehrsnetze/WV - Master.md",
+    "Semester5/Weitverkehrsnetze/Nicht bestätigt 696242.crdownload",
+    "Semester5/Weitverkehrsnetze/Router table.png",
+    "Semester5/Maschinennahe Vernetzung/MV - Master.md",
+    "Semester5/Weitverkehrsnetze/VL0 - PDF - Allgemeines zur Lehrveranstaltung.pdf",
+    "Semester5/Weitverkehrsnetze/Übung_1/Subnet an IPv4 Network.pdf",
+    "Semester5/Maschinennahe Vernetzung/VL2 - Notizen.md",
+    "Semester5/Maschinennahe Vernetzung/VL2 - Zeichnungen.md",
+    "Semester5/Maschinennahe Vernetzung/VL2 - PDF - 2. Kommunikationsschichten, Bituebertragungsschicht.pdf",
+    "Semester5/Maschinennahe Vernetzung/VL1 - PDF - 1. Einfuehrung in die Automatisierungstechnik.pdf",
+    "Semester5/Maschinennahe Vernetzung/VL1 - Notizen.md",
     "Semester5/Maschinelles Lernen/ML_WS26_27_V02_Das_Lernproblem.pdf",
-    "Semester5/Maschinelles Lernen/ML_WS26_27_V01_Einfuehrung.pdf",
-    "Semester5/Maschinelles Lernen/ML_U01_Setup_NumPy.pdf",
-    "Semester5/Maschinelles Lernen/Nicht bestätigt 311012.crdownload",
-    "Semester5/Maschinelles Lernen/Nicht bestätigt 405943.crdownload",
+    "Semester5/Maschinennahe Vernetzung/Nicht bestätigt 461.crdownload",
     "Semester5/Betriebswirtschaftslere/VL1 - Zeichnungen.md",
     "Semester5/Betriebswirtschaftslere/Übung 1.md",
     "Semester5/Maschinelles Lernen/ML - Master.md",
-    "Semester5/Weitverkehrsnetze/WV - Master.md",
-    "Semester5/Weitverkehrsnetze/Übung_1/Subnet an IPv4 Network.pdf",
-    "Semester5/Weitverkehrsnetze/VL1 - PDF - 1. Routing.pdf",
-    "Semester5/Betriebswirtschaftslere/Folien zur Vorlesung BWL 2026.pdf",
-    "Semester5/Weitverkehrsnetze/Übung 1 - Subnetting.md",
-    "Semester5/Weitverkehrsnetze/Übung_1/Subnet an IPv4 Network.pka~",
-    "Semester5/Weitverkehrsnetze/Übung_1/Subnet an IPv4 Network.pka",
-    "Semester5/Weitverkehrsnetze/Übung_1",
     "Semester5/Betriebswirtschaftslere/Unbenannt.md",
     "Semester5/Betriebswirtschaftslere/BWL - Master.md",
     "Semester5/Semester 5 Master.md",
@@ -219,14 +249,6 @@
     "Semester5/Numerische Mathematik/VL2 - Zeichnungen.md",
     "Semester5/Numerische Mathematik/NM - Master.md",
     "Semester5/Numerische Mathematik/VL2 - Notizen.md",
-    "Semester5/Weitverkehrsnetze/Router table.png",
-    "Semester5/Weitverkehrsnetze/VL1 - Zeichnungen.md",
-    "Semester5/Maschinelles Lernen/VL1.md",
-    "Semester5/Maschinennahe Vernetzung/MV - Master.md",
-    "Semester5/Maschinennahe Vernetzung/VL1 - Zeichnungen.md",
-    "Semester5/Maschinennahe Vernetzung/VL1 - Notizen.md",
-    "Excalidraw/Drawing 2026-10-05 12.57.27.excalidraw.md",
-    "Excalidraw/Drawing 2026-10-05 12.56.36.excalidraw.md",
     "Semester5/Betriebswirtschaftslere/Unbenannt.canvas"
   ]
 }
