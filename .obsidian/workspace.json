@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "5434f4f7e20f2da3",
+        "id": "f31aedfa4fefb897",
         "type": "tabs",
         "children": [
           {
-            "id": "8f7fcd3e01450153",
+            "id": "0aaa8efec0169525",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semester5/Numerische Mathematik/VL3 Software 2026.pdf"
+                "file": "Semester5/Numerische Mathematik/VL2 - Notizen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "VL3 Software 2026"
+              "icon": "lucide-file",
+              "title": "VL2 - Notizen"
+            }
+          },
+          {
+            "id": "8a4727e95d7209fd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Semester5/Numerische Mathematik/TheorieÜbung - Zeichnungen.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "TheorieÜbung - Zeichnungen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,16 +90,6 @@
               },
               "icon": "lucide-bookmark",
               "title": "Lesezeichen"
-            }
-          },
-          {
-            "id": "78d290aee5d29e07",
-            "type": "leaf",
-            "state": {
-              "type": "vertical-tabs",
-              "state": {},
-              "icon": "vertical-tabs",
-              "title": "Vertical tabs"
             }
           }
         ]
@@ -179,7 +184,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester5/Numerische Mathematik/VL3 Software 2026.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -205,11 +209,27 @@
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": true,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8f7fcd3e01450153",
+  "active": "8a4727e95d7209fd",
   "lastOpenFiles": [
+    "Semester5/Numerische Mathematik/VL2 - Notizen.md",
+    "Semester5/Numerische Mathematik/Praktika.pdf",
+    "Semester5/Numerische Mathematik/TheorieÜbung - Zeichnungen.md",
+    "Semester5/Numerische Mathematik/VL2 Vektoranalysis 2026.pdf",
+    "Semester5/Numerische Mathematik/TheorieUebung.pdf",
+    "Semester5/Numerische Mathematik/VL2 - Zeichnungen.md",
+    "Semester5/Betriebswirtschaftslere/Folien - Excalidraw.md",
+    "Semester5/Betriebswirtschaftslere/BWL - Master.md",
+    "Semester5/Betriebswirtschaftslere/Unbenannt.canvas",
+    "Semester5/Betriebswirtschaftslere/Folien zur Vorlesung BWL 2026.pdf",
+    "Semester5/Betriebswirtschaftslere/VL1 - Zeichnungen.md",
+    "Semester5/Numerische Mathematik/VL3 Software 2026.pdf",
+    "Semester5/Numerische Mathematik/Nicht bestätigt 14548.crdownload",
     "Semester5/Maschinennahe Vernetzung/Übung 1.md",
     "Semester5/Weitverkehrsnetze/Übung 1 - Subnetting.md",
     "Semester5/Weitverkehrsnetze/VL2 - Zeichnungen.md",
@@ -222,20 +242,12 @@
     "Semester5/Weitverkehrsnetze/Nicht bestätigt 696242.crdownload",
     "Semester5/Weitverkehrsnetze/Router table.png",
     "Semester5/Maschinennahe Vernetzung/MV - Master.md",
-    "Semester5/Weitverkehrsnetze/VL0 - PDF - Allgemeines zur Lehrveranstaltung.pdf",
-    "Semester5/Weitverkehrsnetze/Übung_1/Subnet an IPv4 Network.pdf",
     "Semester5/Maschinennahe Vernetzung/VL2 - Notizen.md",
     "Semester5/Maschinennahe Vernetzung/VL2 - Zeichnungen.md",
-    "Semester5/Maschinennahe Vernetzung/VL2 - PDF - 2. Kommunikationsschichten, Bituebertragungsschicht.pdf",
-    "Semester5/Maschinennahe Vernetzung/VL1 - PDF - 1. Einfuehrung in die Automatisierungstechnik.pdf",
     "Semester5/Maschinennahe Vernetzung/VL1 - Notizen.md",
-    "Semester5/Maschinelles Lernen/ML_WS26_27_V02_Das_Lernproblem.pdf",
-    "Semester5/Maschinennahe Vernetzung/Nicht bestätigt 461.crdownload",
-    "Semester5/Betriebswirtschaftslere/VL1 - Zeichnungen.md",
     "Semester5/Betriebswirtschaftslere/Übung 1.md",
     "Semester5/Maschinelles Lernen/ML - Master.md",
     "Semester5/Betriebswirtschaftslere/Unbenannt.md",
-    "Semester5/Betriebswirtschaftslere/BWL - Master.md",
     "Semester5/Semester 5 Master.md",
     "Semester5/Astronomie/VL2.md",
     "Semester5/Astronomie/VL1.md",
@@ -243,12 +255,6 @@
     "Semester5/Betriebswirtschaftslere/VL2 - Zeichnungen.md",
     "Pasted Image 20261012125519_193.png",
     "Pasted Image 20261012125444_125.png",
-    "Semester5/Betriebswirtschaftslere/VL2 - Notizen.md",
-    "Semester5/Unbenannt.md",
-    "Excalidraw/Drawing 2026-10-12 11.44.45.excalidraw.md",
-    "Semester5/Numerische Mathematik/VL2 - Zeichnungen.md",
-    "Semester5/Numerische Mathematik/NM - Master.md",
-    "Semester5/Numerische Mathematik/VL2 - Notizen.md",
-    "Semester5/Betriebswirtschaftslere/Unbenannt.canvas"
+    "Semester5/Betriebswirtschaftslere/VL2 - Notizen.md"
   ]
 }
