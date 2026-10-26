@@ -13,9 +13,9 @@ tags: [excalidraw]
 Pkt.-zu-Pkt.-Verb. ^v4VlSDFt
 
 ## Element Links
-s6YZqVrw: [[Semester5/Weitverkehrsnetze/VL1 - PDF - 1. Routing.pdf#page=9&rect=25,57,890,518]]
+s6YZqVrw: [[VL1 - PDF - 1. Routing.pdf#page=9&rect=25,57,890,518]]
 
-KVQuUMIK: [[Semester5/Weitverkehrsnetze/VL1 - PDF - 1. Routing.pdf#page=10&rect=43,91,909,497]]
+KVQuUMIK: [[VL1 - PDF - 1. Routing.pdf#page=10&rect=43,91,909,497]]
 
 ## Embedded Files
 604b7f04c3759f2d9d9aff0664c4700397f95058: [[VL1 - PDF - 1. Routing.pdf#page=9]]
