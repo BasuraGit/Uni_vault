@@ -18,21 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "VL3 - Zeichnungen"
             }
-          },
-          {
-            "id": "fce1ed499c06e4ea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Semester5/Weitverkehrsnetze/VL/VL4 - Zeichnungen.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "VL4 - Zeichnungen"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester5/Weitverkehrsnetze/VL/VL4 - Zeichnungen.md",
+                "file": "Semester5/Weitverkehrsnetze/VL/VL3 - Zeichnungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,10 +200,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": true
     }
   },
-  "active": "fce1ed499c06e4ea",
+  "active": "a80d8bdb65fcaef5",
   "lastOpenFiles": [
-    "Semester5/Weitverkehrsnetze/VL/VL3 - Zeichnungen.md",
     "Semester5/Weitverkehrsnetze/VL/VL4 - Zeichnungen.md",
+    "Semester5/Weitverkehrsnetze/VL/VL3 - Zeichnungen.md",
     "Semester5/Weitverkehrsnetze/VL/VL2.5 Videovorlesung 23.10.2026 Dijkstra.mp4",
     "Semester5/Weitverkehrsnetze/VL/3. Aufbau und Funktionen des Routing und Switchings.pdf",
     "Semester5/Weitverkehrsnetze/VL/VL1 - Zeichnungen.md",
