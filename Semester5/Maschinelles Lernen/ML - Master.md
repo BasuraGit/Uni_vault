@@ -17,3 +17,4 @@ durch Besuchen von VL und Ü gut machbar
 
 Gradienten berechnen möglich für Klausuraufgabe
 transform/fit_transform Unterschied mögliche Code Klausuraufgabe
+Underfitting Overfitting auswirkungen Klausurrelevant

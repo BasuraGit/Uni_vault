@@ -1,0 +1,11 @@
+# Zentrale Abhängigkeiten für alle 13 Übungstermine.
+# Einmalig installieren: pip install -r requirements.txt
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scipy>=1.10
+scikit-learn>=1.3
+torch>=2.0
+torchvision>=0.15
+jupyter>=1.0
+ipykernel>=6.0

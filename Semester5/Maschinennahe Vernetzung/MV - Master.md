@@ -10,7 +10,10 @@
 [[Semester5/Maschinennahe Vernetzung/VL/VL2 - Zeichnungen|VL2 - Zeichnungen]]
 [[Semester5/Maschinennahe Vernetzung/VL/VL2 - Notizen|VL2 - Notizen]]
 
+##### VL3
 
+[[3. Sicherungsschicht.pdf|Sicherungsschicht PDF]]
+[[Semester5/Maschinennahe Vernetzung/VL/VL3 - Zeichnungen]]
 
 ## Übung
 
